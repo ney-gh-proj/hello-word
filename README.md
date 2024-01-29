@@ -1,2 +1,6 @@
 # hello-word
 Este é meu primeiro repositorio nesta conta do github
+Em primeiro lugar gostaria de apresentar-me: meu nome é antonio ney, tenho 43 anos e moro em teresina piaui.
+Estou entusiasmado em aprender a usar o github para meu aprendizado em programação, pretendo torna-me um proficional que consiga deselvolver projetos que contribuam para melhorar a vidas das pessoas em geral...criando soluções a problemas do cotidiano...
+por favor ajude-me a alcançar esses objetivo...
+Att.: antonio ney
